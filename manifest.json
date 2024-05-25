@@ -1,11 +1,11 @@
 {
-    "name": "ancientjeevan",
-    "short_name": "ancientjeevan",
+    "name": "AncientJeevan",
+    "short_name": "AncientJeevan",
     "start_url": ".",
-    "display": "standalone",
+    "display": "Modern Health",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "To provide high-quality, natural, and traditional Indian foods that promote health and wellness while preserving the environment.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
